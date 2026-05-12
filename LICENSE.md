@@ -1,4 +1,4 @@
-#  
+#  top Workflow for Evernote for macOS - custom shortcuts and auto-sync offers the most advanced Evernote for macOS workflow, with custom shortcuts and auto-sync. Ideal for
 
 
 
